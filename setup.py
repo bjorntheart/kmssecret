@@ -17,7 +17,7 @@ setup(
     description = ("Decrypts AWS KMS encrypted secrets"),
     url = "https://github.com/bjorntheart/kmssecret",
     packages=['kmssecret'],
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
        'Programming Language :: Python :: 2.7'
     ],
